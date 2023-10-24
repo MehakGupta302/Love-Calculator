@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.3)) ,url('couples-coast-love-4k-33-1920x1080.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.button btn btn-success{
+    margin-top :10%;
+    height: 40px;
+    position: relative;
+}
+.card-header{
+    background:linear-gradient(brown, #d6f19f);;
+}
+.card-body{
+    background: linear-gradient(0.25turn, #181817, #ee826a, #181817);
+}
+
+.card-footer{
+    background:linear-gradient(#f5855d, #d6f19f);;
+}
+header{
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    left: -1%;
+    transform: translate( -50 , -50);
+}
+
+
+
